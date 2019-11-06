@@ -35,3 +35,31 @@
     margin-right: 10px;
     color: red;
 }
+
+
+.fa-file-download{
+    font-size: 60px;
+    margin-right: 10px;
+    color: red;
+}
+
+
+.tituloprecios{
+    font-family: 'Rubik', sans-serif;
+    margin-top: 10rem;
+    font-size: 3.5rem;
+}
+
+.descargar{
+    font-family: 'Rubik', sans-serif;
+    font-size: 2rem;
+    margin-top: 1.6rem;
+}
+
+.imagemedia{
+  margin-top: 10rem;
+  margin-bottom: 5rem;
+  margin-left: 4rem ;
+  margin-right: 4rem;
+
+}
